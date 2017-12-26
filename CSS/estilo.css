@@ -1,13 +1,18 @@
 #fondo{
 
+	background-image: url("../Img/avion.jpg");
+	background-position-x: center;
+	background-position-y: center; 
 	height: 200px;
 	width: 100%;
-	background-color: black;
+	/*background-color: black;*/
 	padding-top: 100px;
 }
 
 #titulo{
+
 	color: white;
+	text-shadow: 4px 1px #271d1d;
 	margin-left: 25%;
 	width: 50%;
 	text-align: center
