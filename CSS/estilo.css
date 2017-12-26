@@ -1,0 +1,23 @@
+#fondo{
+
+	height: 200px;
+	width: 100%;
+	background-color: black;
+	padding-top: 50px;
+}
+
+#titulo{
+	color: white;
+	margin-left: 25%;
+	width: 50%;
+	text-align: center
+}
+
+#parrafo{
+	/* margin-left: 50%;
+	margin-top: 50px;*/
+
+	margin-top: 50px;
+display: inline-block;
+width: 50%;
+}
