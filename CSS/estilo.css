@@ -27,8 +27,16 @@ display: inline-block;
 width: 50%;
 }
 .parraflo1{
-	height: 300px;
+	height: 210px;
 	width: auto;
+	margin-left: 30px;
+}
+#parrafo1 { 
+	position: right;
+	width: 50%;
+	display: inline-block;
+    margin: 20px;
+	
 }
 .uno{
 	margin-top: 30px;
