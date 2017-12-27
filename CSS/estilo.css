@@ -26,3 +26,15 @@
 display: inline-block;
 width: 50%;
 }
+
+.parrafo1{
+	height: 400px;
+	width: auto;
+
+}
+
+#parrafo1{
+	position: left;
+	width: 50%;
+	
+}
