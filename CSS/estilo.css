@@ -28,13 +28,17 @@ width: 50%;
 }
 
 .parrafo1{
-	height: 400px;
+	height: 210px;
 	width: auto;
-
+	margin-left: 30px;
 }
-
-#parrafo1{
-	position: left;
+#parrafo1 { 
+	position: right;
 	width: 50%;
+	display: inline-block;
+    margin: 20px;
 	
+}
+.uno{
+	margin-top: 30px;
 }
